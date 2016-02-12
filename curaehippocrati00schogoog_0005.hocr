@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./curaehippocrati00schogoog_0005.png"; bbox 0 0 2918 4980; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 258 1375 1245 1459">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 258 1375 1245 1459">
+     <span class='ocr_line' id='line_1_1' title="bbox 258 1375 1245 1459; baseline -0.001 -18"><span class='ocrx_word' id='word_1_1' title='bbox 258 1377 311 1441; x_wconf 78' lang='lat' dir='ltr'>De</span> <span class='ocrx_word' id='word_1_2' title='bbox 335 1376 571 1442; x_wconf 83' lang='lat' dir='ltr'>dissertatione</span> <span class='ocrx_word' id='word_1_3' title='bbox 594 1375 769 1459; x_wconf 84' lang='lat' dir='ltr'>probanda</span> <span class='ocrx_word' id='word_1_4' title='bbox 793 1375 833 1441; x_wconf 84' lang='lat' dir='ltr'>ad</span> <span class='ocrx_word' id='word_1_5' title='bbox 858 1375 1006 1440; x_wconf 85' lang='lat' dir='ltr'>ordinem</span> <span class='ocrx_word' id='word_1_6' title='bbox 1028 1376 1245 1441; x_wconf 77' lang='lat' dir='ltr'><strong>rettulerunt:</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 408 1547 1241 1751">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 408 1547 1241 1751">
+     <span class='ocr_line' id='line_1_2' title="bbox 408 1547 1228 1630; baseline -0.001 -17"><span class='ocrx_word' id='word_1_7' title='bbox 408 1549 611 1615; x_wconf 83' lang='lat' dir='ltr'>Arthurus</span> <span class='ocrx_word' id='word_1_8' title='bbox 635 1549 824 1615; x_wconf 80' lang='lat' dir='ltr'>Ludwioh</span> <span class='ocrx_word' id='word_1_9' title='bbox 848 1549 907 1614; x_wconf 89' lang='lat' dir='ltr'>Dr.</span> <span class='ocrx_word' id='word_1_10' title='bbox 931 1547 1021 1613; x_wconf 86' lang='lat' dir='ltr'>Prof.</span> <span class='ocrx_word' id='word_1_11' title='bbox 1045 1549 1135 1630; x_wconf 89' lang='lat' dir='ltr'>publ.</span> <span class='ocrx_word' id='word_1_12' title='bbox 1159 1548 1228 1612; x_wconf 81' lang='lat' dir='ltr'>ord.</span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 408 1668 1241 1751; baseline -0.002 -17"><span class='ocrx_word' id='word_1_13' title='bbox 408 1669 608 1738; x_wconf 82' lang='lat' dir='ltr'>Ricardus</span> <span class='ocrx_word' id='word_1_14' title='bbox 637 1670 835 1736; x_wconf 80' lang='lat' dir='ltr'>Wuensch</span> <span class='ocrx_word' id='word_1_15' title='bbox 858 1670 918 1736; x_wconf 84' lang='lat' dir='ltr'>Dr.</span> <span class='ocrx_word' id='word_1_16' title='bbox 942 1668 1033 1735; x_wconf 88' lang='lat' dir='ltr'>Prof.</span> <span class='ocrx_word' id='word_1_17' title='bbox 1057 1669 1146 1751; x_wconf 89' lang='lat' dir='ltr'>publ.</span> <span class='ocrx_word' id='word_1_18' title='bbox 1171 1668 1241 1733; x_wconf 88' lang='lat' dir='ltr'>ord.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 0 0 1464 4980">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 0 0 1464 4980">
+     <span class='ocr_line' id='line_1_4' title="bbox 0 0 1464 4980; baseline 0 0"><span class='ocrx_word' id='word_1_19' title='bbox 0 0 1464 4980; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

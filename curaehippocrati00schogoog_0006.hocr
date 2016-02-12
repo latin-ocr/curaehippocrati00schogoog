@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./curaehippocrati00schogoog_0006.png"; bbox 0 0 2918 4980; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 382 1395 1058 1482">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 382 1395 1058 1482">
+     <span class='ocr_line' id='line_1_1' title="bbox 382 1395 1058 1482; baseline -0.003 -2"><span class='ocrx_word' id='word_1_1' title='bbox 382 1396 558 1482; x_wconf 81' lang='lat' dir='ltr'>IULIO</span> <span class='ocrx_word' id='word_1_2' title='bbox 592 1395 1058 1480; x_wconf 75' lang='lat' dir='ltr'>HIRSOHBERGIO</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 383 1709 960 1793">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 383 1709 960 1793">
+     <span class='ocr_line' id='line_1_2' title="bbox 383 1709 960 1793; baseline 0 -1"><span class='ocrx_word' id='word_1_3' title='bbox 383 1710 646 1793; x_wconf 79' lang='lat' dir='ltr'><strong>IOHANNI</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 678 1709 960 1793; x_wconf 79' lang='lat' dir='ltr'>VAHLENO</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 675 2451 1174 2536">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 675 2451 1174 2536">
+     <span class='ocr_line' id='line_1_3' title="bbox 675 2451 1174 2536; baseline 0.002 -19"><span class='ocrx_word' id='word_1_5' title='bbox 675 2453 777 2518; x_wconf 80' lang='lat' dir='ltr'>hasce</span> <span class='ocrx_word' id='word_1_6' title='bbox 801 2454 987 2522; x_wconf 78' lang='lat' dir='ltr'>studiorum</span> <span class='ocrx_word' id='word_1_7' title='bbox 1009 2451 1174 2536; x_wconf 76' lang='lat' dir='ltr'>primitias</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 869 2746 1009 2813">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 869 2746 1009 2813">
+     <span class='ocr_line' id='line_1_4' title="bbox 869 2746 1009 2813; baseline -0.007 -1"><span class='ocrx_word' id='word_1_8' title='bbox 869 2746 900 2812; x_wconf 87' lang='lat' dir='ltr'>d.</span> <span class='ocrx_word' id='word_1_9' title='bbox 924 2747 954 2813; x_wconf 89' lang='lat' dir='ltr'>d.</span> <span class='ocrx_word' id='word_1_10' title='bbox 978 2747 1009 2812; x_wconf 91' lang='lat' dir='ltr'>d.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 1048 3043 1174 3105">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 1048 3043 1174 3105">
+     <span class='ocr_line' id='line_1_5' title="bbox 1048 3043 1174 3105; baseline 0.008 -1"><span class='ocrx_word' id='word_1_11' title='bbox 1048 3043 1174 3105; x_wconf 76' lang='lat' dir='ltr'><strong>auctor.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_6' title="bbox 0 0 1464 4980">
+    <p class='ocr_par' dir='ltr' id='par_1_6' title="bbox 0 0 1464 4980">
+     <span class='ocr_line' id='line_1_6' title="bbox 0 0 1464 4980; baseline 0 0"><span class='ocrx_word' id='word_1_12' title='bbox 0 0 1464 4980; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
